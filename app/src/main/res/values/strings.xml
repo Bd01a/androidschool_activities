@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">androidschool_activities</string>
+    <string name="account">Account</string>
+    <string name="catalog">Catalog</string>
+    <string name="map">Map</string>
+    <string name="search">Search</string>
+</resources>
